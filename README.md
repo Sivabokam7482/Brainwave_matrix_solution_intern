@@ -13,14 +13,14 @@ Welcome to my internship journey at Brainware Matrix Solutions in the field of S
 #### Project 2: Online_store Database
 
 **Project Description:**
-The E-commerce Database project aimed at creating a robust database system to support online store operations. This included tables for Users,Categories,products, orders,order_details, payments, shipping and reviews enabling efficient management of Online_store transactions.
+The Online Store Database project aimed at creating a robust database system to support online store operations. This included tables for Users,Categories,products, orders,order_details, payments, shipping and reviews enabling efficient management of Online_store transactions.
 
 **Tasks Completed:**
 - Designed a comprehensive schema for the Online_store Database, including tables for Users,Categories,products, orders,order_details, payments and more.
 - Implemented SQL queries to handle customer orders, manage product inventory, and track supplier information.
 
 **Skills Developed:**
-- E-commerce database modeling and schema design.
+- Online Store database modeling and schema design.
 - Advanced SQL query writing for complex data operations.
 - Integration of database management concepts with real-world business requirements.
 
